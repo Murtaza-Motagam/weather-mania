@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-mania/static/css/main.b53912a2.css",
+    "main.js": "/weather-mania/static/js/main.a144f3a8.js",
+    "index.html": "/weather-mania/index.html",
+    "main.b53912a2.css.map": "/weather-mania/static/css/main.b53912a2.css.map",
+    "main.a144f3a8.js.map": "/weather-mania/static/js/main.a144f3a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53912a2.css",
+    "static/js/main.a144f3a8.js"
+  ]
+}
