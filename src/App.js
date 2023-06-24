@@ -11,7 +11,7 @@ function App() {
     let response = await fetch(`https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=${name}`, {
       method: "GET",
       headers: {
-        'X-RapidAPI-Key': '52b5a7cf93mshb933e49df9c3effp1967fbjsn31fecac23a3f',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
       }
     });
